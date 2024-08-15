@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(65, 65, 65);
+    color: white;
+    font-family: "Bungee Tint", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: aqua;
+    color: white;
+    font-family: "Bungee Tint", sans-serif;
+}
